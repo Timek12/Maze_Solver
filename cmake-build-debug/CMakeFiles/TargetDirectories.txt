@@ -1,3 +1,0 @@
-C:/Users/HP/OneDrive - Politechnika Łódzka/Desktop/New folder/Maze_Solver_with_Backtracking_Algorithm/cmake-build-debug/CMakeFiles/6_12.dir
-C:/Users/HP/OneDrive - Politechnika Łódzka/Desktop/New folder/Maze_Solver_with_Backtracking_Algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/HP/OneDrive - Politechnika Łódzka/Desktop/New folder/Maze_Solver_with_Backtracking_Algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
